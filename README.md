@@ -3,5 +3,3 @@
 ## Introduction
 
 This is an implementation intended for production for deploying Cisco network equipment using the "Network Plug and Play Protocol" (make this a link to the Cisco PnP documentation)
-# netbox-network-pnp-app
-# netbox-network-pnp-app
